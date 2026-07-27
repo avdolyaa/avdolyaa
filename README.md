@@ -4,13 +4,13 @@
 
 ### 🛠️ Стек
 
-**Backend:** Python · FastAPI · Django · aiogram
+| Категория | Технологии |
+|---|---|
+| Backend | Python · FastAPI · Django · aiogram |
+| Данные | PostgreSQL · SQL · Alembic · Pydantic v2 |
+| Frontend | HTML · CSS · HTMX · TailwindCSS |
+| DevOps / Tools | Docker · Nginx · Git · Postman · Pytest · APScheduler |
 
-**Данные:** PostgreSQL · SQL · Alembic · Pydantic v2
-
-**Frontend:** HTML · CSS · HTMX · TailwindCSS
-
-**DevOps / Tools:** Docker · Nginx · Git · Postman · Pytest · APScheduler
 
 
 ### 🎓 Образование
