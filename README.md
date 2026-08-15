@@ -9,7 +9,8 @@
 | Backend | Python, FastAPI, Django, aiogram |
 | Данные | PostgreSQL, SQL, Alembic, Pydantic v2 |
 | Frontend | HTML, CSS, HTMX, TailwindCSS |
-| DevOps / Tools | Docker, Nginx, Git, Postman, Pytest, APScheduler |
+| DevOps / Tools | Docker, Nginx, CI/CD, Kubernetes, Git, Postman, Pytest, APScheduler |
+
 
 ### 📂 Проекты
 
